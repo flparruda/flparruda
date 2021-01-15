@@ -1,20 +1,29 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+   Hi, I'm Felipe! :D
+   I am a student of <strong>Computer Engineering</strong> and passionate about technology.
+  
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript</strong>
+  🎨 Front-End: <strong> HTML, CSS, JavaScript, </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  👾 Backend: <strong> ReactJs, React, NodeJs  </strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  📖 Learning: <strong> ADVPL  </strong>
+</p>
+
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Figma,AWS,Microsoft Azure, Git and Github</strong>
+</p>
+
+<p align="left">
+  💌  If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 </p>
 
 <p align="left">
@@ -23,8 +32,5 @@
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flparruda/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
 </p>  
