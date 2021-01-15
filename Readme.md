@@ -1,4 +1,4 @@
-<img src="https://hire-xamarin-developer.com/blog/wp-content/uploads/2016/10/a72edf4f921646a387436a0f52461991.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador e Café">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador e Café">
 <h1>Hi, I'm Felipe! :D</h1>
 <p align="left"> 
    I am a student of <strong>Computer Engineering</strong> and passionate about technology.
