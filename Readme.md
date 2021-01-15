@@ -36,6 +36,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/flparruda.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/flparruda?tab=followers)
 
-[Website](https://flparruda.tk) 💻 - Working on it.
+[Website](http://felipearruda.tk/) 💻 - Working on it.
 
 </p>  
