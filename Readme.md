@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/flparruda" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flparruda"/></a>
 
-[![flparruda github repositories](https://github-readme-stats.vercel.app/api?username=flparruda&theme=nightowl&show_icons=true)](https://github.com/flparruda?tab=followers)
+[![flparruda github repositories](https://github-readme-stats.vercel.app/api?username=flparruda&theme=nightowl&show_icons=true)](https://github.com/flparruda?tab=repositories)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/flparruda.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/flparruda?tab=repositories)
