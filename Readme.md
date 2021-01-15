@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma,AWS,Microsoft Azure, Git and Github</strong>
+  💼 Tools: <strong>Visual Studio Code, Figma, AWS, Microsoft Azure, Git and Github</strong>
 </p>
 
 <p align="left">
